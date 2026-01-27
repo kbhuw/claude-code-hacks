@@ -1,0 +1,10 @@
+// To enable lazy-loading of MCP tools, run:
+//   claude config set -g env.ENABLE_TOOL_SEARCH true
+//
+// Or add this to your settings.json (~/.claude/settings.json):
+
+{
+  "env": {
+    "ENABLE_TOOL_SEARCH": "true"
+  }
+}
